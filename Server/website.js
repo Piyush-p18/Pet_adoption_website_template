@@ -6,8 +6,8 @@ const port = process.env.PORT || 8080;
 http
   .createServer(function (req, res) {
     console.log(req.url);
-    if (req.url === "/pet_adoption.html" || req.url === "/") {
-      fs.readFile("../pet_adoption.html", function (err, data) {
+    if (req.url === "/index.html" || req.url === "/") {
+      fs.readFile("../index.html", function (err, data) {
         res.writeHead(200, { "Content-Type": "text/html" });
         res.write(data);
         res.end();
