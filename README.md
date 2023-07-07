@@ -4,7 +4,7 @@
 ->Project name :- website template for pet adoption site (Varcons Technologies) - FSWD
 
 # website_template_for_pet_adoption_site
-This is a FSWD project (website template) made for pet adoption site (varcons technologies) by Piyush Kumar
+This is a FSWD project (website template) made for pet adoption site (varcons technologies) by Piyush Kumar  
 ->email:- impiyush18@gmail.com
 
 # Front-end
