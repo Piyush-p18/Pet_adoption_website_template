@@ -1,6 +1,6 @@
 ->Name:- Piyush Kumar <br/>
-->USN:- 1MV21CS127 
-->Email:- impiyush18@gmail.com 
+->USN:- 1MV21CS127 <br/>
+->Email:- impiyush18@gmail.com   
 ->Project name :- website template for pet adoption site (Varcons Technologies) - FSWD
 
 # website_template_for_pet_adoption_site
